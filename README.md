@@ -1,8 +1,8 @@
 
 
 ## Hey! Welcome
-
-- :mortar_board: Graduated in Systems Analysis and Development
+- Graduanda em Sistemas de Informação
+- :mortar_board: Graduada em Análise e Desenvolvimento de Sistemas
 - 🔭 learning about Quality Assurance (QA) and Test Automation
 <!--- 🌱 -->
 
