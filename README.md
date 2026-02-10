@@ -1,9 +1,9 @@
 
 
 ## Hey! Welcome
-- Graduanda em Sistemas de Informação
+- :mortar_board: Graduanda em Sistemas de Informação
 - :mortar_board: Graduada em Análise e Desenvolvimento de Sistemas
-- 🔭 learning about Quality Assurance (QA) and Test Automation
+- 🧪 Focada em Qualidade de Software (QA)
 <!--- 🌱 -->
 
  ## Tools and programmming language :hammer_and_wrench:
