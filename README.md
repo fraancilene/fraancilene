@@ -1,7 +1,7 @@
 
 
 ## Hey! Welcome
-- :mortar_board: Graduanda em Sistemas de Informação
+- :mortar_board: Graduanda em Segurança da Informação
 - :mortar_board: Graduada em Análise e Desenvolvimento de Sistemas
 - 🧪 Focada em Qualidade de Software (QA)
 <!--- 🌱 -->
